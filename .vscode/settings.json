@@ -1,0 +1,3 @@
+{
+    "code-runner.customCommand": "\"code-runner.customCommand\": \"chrome ${fileDirname}/${fileBasename}\", // Ou o comando equivalente para o seu navegador"
+}
